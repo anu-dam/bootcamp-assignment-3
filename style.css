@@ -1,0 +1,27 @@
+
+.row{
+  background-color: lightgray;
+  margin-top: 20px;
+  width: 100%;
+}
+
+
+.content {
+  margin: 50px;
+  padding: 20px;
+}
+
+#yourPw {
+  width: 100%;
+}
+
+#charNum{
+
+  margin-bottom: 10px;
+}
+
+#submit{
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
